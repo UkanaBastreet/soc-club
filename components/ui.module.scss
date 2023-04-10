@@ -1,0 +1,10 @@
+.Layout {
+  height: 100%;
+  display: grid;
+  grid-template-rows: 10% 85% 5%;
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
